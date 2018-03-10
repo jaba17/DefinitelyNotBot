@@ -18,7 +18,7 @@ client.on('message', message => {
 });
 
 client.on('message', message => {
-    if (message.includes('discord.gg/') {
+    if (message.includes('discord.gg') {
     	message.reply('BONG!');
   	}
 });
